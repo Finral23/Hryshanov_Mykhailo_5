@@ -1,0 +1,15 @@
+D:\Finral\Уник\Прога\Лабы\Коды\3\ConsoleApp3\ConsoleApp3\bin\Debug\net6.0\ConsoleApp3.exe
+D:\Finral\Уник\Прога\Лабы\Коды\3\ConsoleApp3\ConsoleApp3\bin\Debug\net6.0\ConsoleApp3.deps.json
+D:\Finral\Уник\Прога\Лабы\Коды\3\ConsoleApp3\ConsoleApp3\bin\Debug\net6.0\ConsoleApp3.runtimeconfig.json
+D:\Finral\Уник\Прога\Лабы\Коды\3\ConsoleApp3\ConsoleApp3\bin\Debug\net6.0\ConsoleApp3.dll
+D:\Finral\Уник\Прога\Лабы\Коды\3\ConsoleApp3\ConsoleApp3\bin\Debug\net6.0\ConsoleApp3.pdb
+D:\Finral\Уник\Прога\Лабы\Коды\3\ConsoleApp3\ConsoleApp3\obj\Debug\net6.0\ConsoleApp3.csproj.AssemblyReference.cache
+D:\Finral\Уник\Прога\Лабы\Коды\3\ConsoleApp3\ConsoleApp3\obj\Debug\net6.0\ConsoleApp3.GeneratedMSBuildEditorConfig.editorconfig
+D:\Finral\Уник\Прога\Лабы\Коды\3\ConsoleApp3\ConsoleApp3\obj\Debug\net6.0\ConsoleApp3.AssemblyInfoInputs.cache
+D:\Finral\Уник\Прога\Лабы\Коды\3\ConsoleApp3\ConsoleApp3\obj\Debug\net6.0\ConsoleApp3.AssemblyInfo.cs
+D:\Finral\Уник\Прога\Лабы\Коды\3\ConsoleApp3\ConsoleApp3\obj\Debug\net6.0\ConsoleApp3.csproj.CoreCompileInputs.cache
+D:\Finral\Уник\Прога\Лабы\Коды\3\ConsoleApp3\ConsoleApp3\obj\Debug\net6.0\ConsoleApp3.dll
+D:\Finral\Уник\Прога\Лабы\Коды\3\ConsoleApp3\ConsoleApp3\obj\Debug\net6.0\refint\ConsoleApp3.dll
+D:\Finral\Уник\Прога\Лабы\Коды\3\ConsoleApp3\ConsoleApp3\obj\Debug\net6.0\ConsoleApp3.pdb
+D:\Finral\Уник\Прога\Лабы\Коды\3\ConsoleApp3\ConsoleApp3\obj\Debug\net6.0\ConsoleApp3.genruntimeconfig.cache
+D:\Finral\Уник\Прога\Лабы\Коды\3\ConsoleApp3\ConsoleApp3\obj\Debug\net6.0\ref\ConsoleApp3.dll
